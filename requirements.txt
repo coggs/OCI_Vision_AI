@@ -1,0 +1,5 @@
+pdf2image
+requests
+oci
+ujson
+oracledb
